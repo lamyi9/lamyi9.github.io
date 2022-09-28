@@ -56,7 +56,7 @@ title: དྲ་བ་དང་དྲ་རྒྱའི་འབྲེལ་མ�
 ![assets/img/internet-dist-1.jpg](/assets/img/internet-dist-1.jpg)
 
 ### དྲ་རྒྱ་བཀག་སྡོམ་དང་གསང་མྱུལ་ལ་གཡོལ་ཐབས།
-![circumvent-internet-surveillance-and-censorship-1024x433](assets/img/circumvent-internet-surveillance-and-censorship-1024x433.jpg)
+![/circumvent-internet-surveillance-and-censorship-1024x433](/assets/img/circumvent-internet-surveillance-and-censorship-1024x433.jpg)
 
 <audio controls src="assets/audio/2.mp3" type="audio/mpeg"></audio>
 ## 1)རྟོག་བཟོས་མི་སྒེར་དྲ་བའི་ཡོ་བྱད་བཀོལ་སྤྱོད།
